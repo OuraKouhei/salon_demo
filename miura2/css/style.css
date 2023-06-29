@@ -365,7 +365,7 @@ section {
   transition: transform 0.75s ease, -webkit-transform 0.75s ease;
 }
 #sec2 .link_box.link_nail .img {
-  background: url(../images/32304502.jpg) no-repeat center center/cover;
+  background: url(../images/nail_image.jpg) no-repeat center center/cover;
 }
 #sec2 .link_box.link_nail .link_title {
   color: #e9a192;
